@@ -1,0 +1,52 @@
+.articleImage, .articleTitle {
+    text-align: center;
+    padding: 10px 10px;
+    display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.articleImage {
+width: 50%;
+height: 50%;
+}
+
+.articleTitle {
+    color: #36802d; 
+    font-weight: bold;
+}
+
+.resourcesTabs {
+    display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.materialSearch {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 50%;
+}
+
+.reactTabs {
+    float: none;
+    display: inline-block;
+    zoom:1;
+    text-align: center;
+}
+
+.cardBox {
+    margin-right: 25%;
+    margin-left: 25%;
+    background-color: #f2f3f8;
+}
+
+.relatedLinks {
+    text-align: center;
+}
+
+.relatedLinks li {
+    list-style-type: none;
+}
